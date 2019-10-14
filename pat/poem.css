@@ -1,0 +1,35 @@
+div.poems {
+    font-size: 10mm;
+}
+div.poem {
+    margin: 1%;
+    padding: 3%;
+    float: left;
+    outline:rgb(23, 70, 23) dashed thin;
+    text-align: center;
+    width: 10cm;
+    outline-style: 
+}
+
+div.ti {
+    margin: ;
+    font-family: 黑体;
+    font-size: 80%;
+    color: brown;
+}
+
+div.zuo {
+    color: blueviolet;
+    font-family: 楷体;
+    font-size: 60%; 
+    text-align: right;
+}
+
+div.nei {
+    font-family: 楷体;
+    color: darkgreen; 
+}
+
+div.bott {
+    clear: both;
+}
